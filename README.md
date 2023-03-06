@@ -17,5 +17,5 @@ This specifies the configuration details used by Maven to build the project. The
 
 How to run the tests:
 
-Once the project is loaded in Eclipse run TestRestAPI.java (Run --> Run As --> Java Application). This file is located inside default package into "src" folder. Test results and details will be shown in the Console.
+Once the project is loaded in Eclipse run Tests.java (Run --> Run As --> Java Application). This file is located inside default package into "src" folder. Test results and details will be shown in the Console.
 
