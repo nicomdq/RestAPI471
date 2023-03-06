@@ -19,3 +19,5 @@ How to run the tests:
 
 Once the project is loaded in Eclipse run Tests.java (Run --> Run As --> Java Application). This file is located inside default package into "src" folder. Test results and details will be shown in the Console.
 
+*NOTE:*
+"http://dummy.restapiexample.com" throws error 429 after a short time of repeating the requests through code. By running them manually through Postman and waiting a few seconds, the endpoints return the information correctly.
